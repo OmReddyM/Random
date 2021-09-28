@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background-color: crimson;
+    color: blue;
+}
+body button{
+    background-color: aquamarine;
+    color: darkblue;
+}
